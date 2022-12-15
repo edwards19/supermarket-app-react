@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/supermarket-app-react/static/css/main.276c30f0.css",
+    "main.js": "/supermarket-app-react/static/js/main.ca0474c5.js",
+    "index.html": "/supermarket-app-react/index.html",
+    "main.276c30f0.css.map": "/supermarket-app-react/static/css/main.276c30f0.css.map",
+    "main.ca0474c5.js.map": "/supermarket-app-react/static/js/main.ca0474c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.276c30f0.css",
+    "static/js/main.ca0474c5.js"
+  ]
+}
